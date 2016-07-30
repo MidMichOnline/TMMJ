@@ -8,7 +8,7 @@ published: true
 ---
 Author to visit Shepherd Community Library August 1st at 3 p.m.
 
-![image alt text]({{ site.url }}/public/qkZe4hElJX7XsSUk5NAbg_img_0.jpg)
+![image alt text](/public/qkZe4hElJX7XsSUk5NAbg_img_0.jpg)
 
 Christian historical fiction author Carrie Fancett Pagels, Ph.D., will be visiting the Shepherd Community Library on Monday, August 1 from 3 - 4 p.m. Pagels will discuss her recently published novella The Substitute Bride.
 
