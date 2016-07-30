@@ -6,7 +6,7 @@ permalink: /midmichonline-2826867-author-visits-shepherd-library-master-(1).docx
 source-id: 13VQaRpDVjEQmfFmO81q2wycz1XAKpdkKL8alkuBF_Io
 published: true
 ---
-Author to visit Shepherd Community Library August 1st at 3 p.m.
+#Author to visit Shepherd Community Library August 1st at 3 p.m.
 
 ![image alt text](/public/qkZe4hElJX7XsSUk5NAbg_img_0.jpg)
 
@@ -16,7 +16,7 @@ Here is a little bit more information:
 
 Carrie enjoys reading, traveling, baking, and beading—but not all at the same time! Many of her stories are set in Michigan, where she grew up. Possessed with an overactive imagination, she loves sharing her stories with others. A psychologist for twenty-five years, she is no longer practicing. Married for almost thirty years to the man of her dreams, with a teenage son and adult daughter, Carrie resides in Virginia's Historic Triangle, which is perfect for her fascination with history. Administrates two popular group blogs: www.OvercomingWithGod.com and www.ColonialQuills.org.
 
-![image alt text]({{ site.url }}/public/qkZe4hElJX7XsSUk5NAbg_img_1.jpg)
+![image alt text](/public/qkZe4hElJX7XsSUk5NAbg_img_1.jpg)
 
 Other Michigan-set books include:
 
